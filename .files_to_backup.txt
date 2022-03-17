@@ -1,0 +1,5 @@
+/var/www/ocpizza
+/var/www/ocpizza-management
+/etc/apache2/sites-available/ocpizza.conf
+/etc/apache2/sites-available/ocpizza-management.conf
+/var/lib/postgresql/12/main
