@@ -102,7 +102,7 @@ Création de la base de données
 Récupération du script de configuration du backup
 
     cd
-    wget -L https://tinyurl.com/p5mmvjhe -O configure_backup.sh
+    wget -L https://bit.ly/3wfpPTv -O configure_backup.sh
     chmod +x configure_backup.sh
 
 ## 📖 Configuration du monitoring avec Nagios
