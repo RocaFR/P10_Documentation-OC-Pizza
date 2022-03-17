@@ -10,11 +10,11 @@ Saisir son mot de passe et valider avec entrée
 Installation du serveur web
 
     sudo apt install -y apache2
-Pour stopper le serveur web
+💡 Pour stopper le serveur web
 
     sudo systemctl stop apache2.service
 
-Pour démarrer la serveur web
+💡 Pour démarrer la serveur web
 
     sudo systemctl start apache2.service
 
@@ -88,13 +88,18 @@ Création de la base de données
     sudo -i -u postgres
     cat /home/oc/script.sql | psql
 
-Pour stopper la base de données
+💡 Pour stopper la base de données
 
     sudo systemctl stop postgresql
 
-Pour démarrer la base de données
+💡 Pour démarrer la base de données
 
     1. sudo systemctl start postgresql
+
+
+## 💾 Configuration du backup avec 
+### Installer XXX
+
 
 ## 📖 Configuration du monitoring avec Nagios
 ### Installer Nagios
