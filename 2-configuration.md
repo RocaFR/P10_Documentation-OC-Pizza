@@ -97,9 +97,13 @@ Création de la base de données
     1. sudo systemctl start postgresql
 
 
-## 💾 Configuration du backup avec 
-### Installer XXX
+## 💾 Configuration du backup avec rsync
 
+Récupération du script de configuration du backup
+
+    cd
+    wget -L https://tinyurl.com/p5mmvjhe -O configure_backup.sh
+    chmod +x configure_backup.sh
 
 ## 📖 Configuration du monitoring avec Nagios
 ### Installer Nagios
