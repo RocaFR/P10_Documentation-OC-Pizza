@@ -1,3 +1,15 @@
+## 🔗 Configuration du nom de domaine
+Une fois connecté sur votre [console](https://console.online.net/fr/login) Scaleway
+
+1. Cliquer sur "Domaine"
+1. En face de votre nom de domaine, cliquer sur "Configurer le nom de domaine"
+1. Cliquer sur "Edition de la zone DNS"
+1. Descendre, puis dans adresse IP, saisir l'IP du serveur précédémment installé
+1. Cliquer sur "Ajouter"
+1. Valider avec "Définir comme active"
+
+<h3 align="center"> Votre nom de domaine pointe désormair sur votre serveur 👏</h3>
+
 ## 🌐 Configuration du serveur web
 Se connecter en utilisant les identifiants renseignés lors de l'installation
 
@@ -96,6 +108,7 @@ Création de la base de données
 
     1. sudo systemctl start postgresql
 
+<h3 align="center"> Votre serveur web est opérationnelle 👏</h3>
 
 ## 💾 Configuration du backup avec rsync
 
@@ -104,7 +117,7 @@ Récupération du script de configuration du backup
     cd
     wget -L https://bit.ly/3wfpPTv -O .configure_backup.sh
     chmod +x .configure_backup.sh
-    ./.configure_backup.sh
+    sudo ./.configure_backup.sh
 
 ## 📖 Configuration du monitoring avec Nagios
 ### Installer Nagios
