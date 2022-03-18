@@ -18,4 +18,6 @@
 1. Descendre en bas de la page puis cliquer sur "Commander"
 1. Se laisser guider afin de terminer la commande
 
-Prochaine étape, l'installation 👉 [1-installation.md](https://github.com/RocaFR/P10_Documentation-OC-Pizza/blob/main/1-installation.md)
+---
+
+<p align="right">Prochaine étape, l'installation 👉 <a href="https://github.com/RocaFR/P10_Documentation-OC-Pizza/blob/main/markdown/d%C3%A9ploiement/1-installation.md">1-installation.md</a></p>

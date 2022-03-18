@@ -21,8 +21,4 @@ Se référer à la documentation Google Analytics.
 
 ---
 
-<h1 align="center"> Félicitations, tout est en ligne ! 👏</h1>
-<p align="center">
-👉 <a href="oc-pizza.com">oc-pizza.com</a><br>
-👉 <a href="management.oc-pizza.com">management.oc-pizza.com</a>
-</p>
+<h1 align="center"> Félicitations, tout est opérationnelle 👏</h1>

@@ -135,8 +135,4 @@ Configurer Nagios
 
 ---
 
-<h1 align="center"> Félicitations, tout est en ligne ! 👏</h1>
-<p align="center">
-👉 <a href="oc-pizza.com">oc-pizza.com</a><br>
-👉 <a href="management.oc-pizza.com">management.oc-pizza.com</a>
-</p>
+<p align="right">Prochaine étape, l'application Android 👉 <a href="https://github.com/RocaFR/P10_Documentation-OC-Pizza/blob/main/markdown/d%C3%A9ploiement/3-application-android.md">3-application-android.md</a></p>
