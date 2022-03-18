@@ -1,3 +1,5 @@
+# Configuration du serveur
+
 ## 🔗 Configuration du nom de domaine
 Une fois connecté sur votre [console](https://console.online.net/fr/login) Scaleway
 

@@ -1,3 +1,5 @@
+# Installation du serveur
+
 ## 🖥️ Installation du système sur le serveur
 💡 Se référer à la documentation de Scaleway => [Installer un serveur](https://www.scaleway.com/en/docs/dedibox/dedicated-servers/how-to/install-a-server/)  
 Choisir Ubuntu serveur comme système d'exploitation

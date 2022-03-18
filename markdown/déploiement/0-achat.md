@@ -1,3 +1,5 @@
+# Achats
+
 ## 💶 Achat du serveur
 1. Se rendre sur [Scaleway](https://www.scaleway.com/fr/dedibox/)
 1. Sélectionner "Serveur dédiés"
