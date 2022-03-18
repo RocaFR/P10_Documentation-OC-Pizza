@@ -2,7 +2,7 @@
 💡 Se référer à la documentation de Scaleway => [Installer un serveur](https://www.scaleway.com/en/docs/dedibox/dedicated-servers/how-to/install-a-server/)  
 Choisir Ubuntu serveur comme système d'exploitation
 
-## 🗒️ Installation du serveur
+## 🗒️ Installation d'Ubuntu serveur
 Une fois le serveur livré avec Ubuntu Serveur, se connecter à celui-ci en SSH  
 💡 Se référer à la [documentation Scaleway](https://www.scaleway.com/en/docs/dedibox/dedicated-servers/quickstart/#how-to-connect-via-ssh)  
 Lorsque vous êtes connecté, le terminal apparait, il vous suffit de suivre les étapes ci-dessous
