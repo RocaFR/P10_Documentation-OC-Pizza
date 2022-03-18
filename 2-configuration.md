@@ -4,7 +4,8 @@ Une fois connecté sur votre [console](https://console.online.net/fr/login) Scal
 1. Cliquer sur "Domaine"
 1. En face de votre nom de domaine, cliquer sur "Configurer le nom de domaine"
 1. Cliquer sur "Edition de la zone DNS"
-1. Descendre, puis dans adresse IP, saisir l'IP du serveur précédémment installé
+1. Descendre, puis dans adresse IP, saisir l'IP du serveur précédémment installé  
+💡 Pour trouver l'IP du serveur, se référer à la [documentation](https://www.scaleway.com/en/docs/dedibox/dedicated-servers/quickstart/#from-windows)
 1. Cliquer sur "Ajouter"
 1. Valider avec "Définir comme active"
 
