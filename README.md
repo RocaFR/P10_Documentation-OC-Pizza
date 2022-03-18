@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/STATUS-ENCOURS-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUT-ENCOURS-<COLOR>.svg)](https://shields.io/)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
