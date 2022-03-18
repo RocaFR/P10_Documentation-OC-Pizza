@@ -22,3 +22,5 @@ Lorsque vous êtes connecté, le terminal apparait, il vous suffit de suivre les
 1. Sélectionner "Terminé"
 1. Sélectionner "Terminé"
 1. Sélectionner "Redémarrer maintenant"
+
+Prochaine étape, la configuration 👉 [2-configuration.md](https://github.com/RocaFR/P10_Documentation-OC-Pizza/blob/main/2-configuration.md)

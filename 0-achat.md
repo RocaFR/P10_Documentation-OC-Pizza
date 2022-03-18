@@ -17,3 +17,5 @@
 1. Valider avec la touche "Entrée"
 1. Descendre en bas de la page puis cliquer sur "Commander"
 1. Se laisser guider afin de terminer la commande
+
+Prochaine étape, l'installation 👉 [1-installation.md](https://github.com/RocaFR/P10_Documentation-OC-Pizza/blob/main/1-installation.md)
