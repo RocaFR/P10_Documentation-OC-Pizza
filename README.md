@@ -18,7 +18,7 @@ Délivrer la documentation complète du système de gestion des commandes du gro
 
 ## 📁 Formats
 Les livrables en fonction de leur nature sont disponibles aux formats suivant :
-- Word
-- PDF
-- Markdown
-- Bash
+- [Word](https://github.com/RocaFR/P10_Documentation-OC-Pizza/tree/main/word)
+- [PDF](https://github.com/RocaFR/P10_Documentation-OC-Pizza/tree/main/pdf)
+- [Markdown](https://github.com/RocaFR/P10_Documentation-OC-Pizza/tree/main/markdown/d%C3%A9ploiement)
+- [Bash](https://github.com/RocaFR/P10_Documentation-OC-Pizza/tree/main/scripts/d%C3%A9ploiement)
